@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**pablodaniels27/pablodaniels27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I Do
+💻 Software Development: Designing and building robust software systems.
+⚙️ DevOps: Automating workflows and creating CI/CD pipelines for faster, more reliable software delivery.
+📊 Big Data: Leveraging large datasets to derive insights and drive business decisions.
+💡 Skills
+Programming Languages: Java, Python, PHP,
+Frameworks & Tools: Pandas, NumPy, Laravel, JavaFx, .NET, Docker, Kubernetes, Terraform
+DevOps: CI/CD, AWS, Azure
+Database Management: MySQL, MongoDB, PostgreSQL
+🌱 Currently Learning
+Advanced Big Data techniques for real-time data processing.
+Optimizing DevOps practices for continuous integration and deployment.
